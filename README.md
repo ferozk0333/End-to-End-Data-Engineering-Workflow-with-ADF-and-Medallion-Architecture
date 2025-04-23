@@ -1,15 +1,12 @@
-# End-to-End-Data-Engineering-Workflow-with-ADF-and-Medallion-Architecture
-
 # Azure Data Engineering Pipeline: Ingestion to Visualization
-
-![Architecture Diagram] ![image](https://github.com/user-attachments/assets/402b00fc-5dad-4407-b42b-3b1407cc15d1)
-
 
 ## Overview
 
 This project demonstrates an end-to-end data engineering workflow built using Microsoft Azure services. It showcases the process of ingesting, transforming, and visualizing data from multiple sources using a modular and scalable pipeline architecture.
 
 The solution is centered around the **Medallion Architecture (Bronze, Silver, Gold)** and involves seamless data flow across ingestion, transformation, and visualization stages.
+
+![image](https://github.com/user-attachments/assets/402b00fc-5dad-4407-b42b-3b1407cc15d1)
 
 ## Key Objectives
 
