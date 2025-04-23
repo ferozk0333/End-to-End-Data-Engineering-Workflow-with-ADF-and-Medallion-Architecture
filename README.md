@@ -41,4 +41,4 @@ This project follows the **Medallion Architecture**:
 
 ---
 
-Feel free to clone, fork, or adapt this architecture for your own cloud-based analytics workflows.
+For any queries/feedback, contact: Feroz Khan (ferozk@uw.edu)
